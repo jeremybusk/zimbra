@@ -1,0 +1,2 @@
+Create dmarc, spf record and add your dns entries in
+https://wiki.zimbra.com/wiki/Best_Practices_on_Email_Protection:_SPF,_DKIM_and_DMARC
